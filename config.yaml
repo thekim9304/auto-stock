@@ -1,0 +1,10 @@
+APP_KEY : "PSIODVBKPeRN2jFoIGls82VTjH1wyp2QEVv3"
+APP_SECRET : "00PkNEAZ9IPPfl6PbRQEwJ5IV3E6pNskBMspNlvMsHB45JS6LQpINmcmZxh9o0SJpZngZE+JPFKm+gbyKrHEGXRBLlqRS1Ol4k1LmPHjywY/4BO3LIWLJ8qSyhkNkcVH4lRX6CUD/iV7oVqM1Nenpnldo7fC6l5HG96fBkBEFLBDnN0amq0="
+
+CANO : "63502813"
+ACNT_PRDT_CD : "01"
+
+# 실전 투자
+URL_BASE : "https://openapi.koreainvestment.com:9443"
+# 모의 투자
+# URL_BASE : "https://openapivts.koreainvestment.com:29443"
